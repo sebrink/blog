@@ -2,9 +2,9 @@
 title: "Scott Brink"
 description: "Scott's Personal Blog."
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
+url: "http://sandw1.ch"
 title_description: "My name is Scott Brink, also know as sandw1ch.   I am studying Computing Security at Rochester Institute of Technology.  I am the Tech Lead of <a href=\"http://ritsec.club\">RITSEC</a> and I was the captain of RIT's Collegiate Penetration Testing Competition this year.   My interests range all over the security field, however recently I have been enjoying penetration testing and experimenting with DevOps tools.   When I am not yelling at my computer, I enjoy swimming and rock climbing."
-title_image: "https://i2.wp.com/dummiesoftheyear.com/wp-content/uploads/2015/12/c5890b20f124e45a95a65a9af7b78a5e.jpg?zoom=2.625&resize=392%2C540&ssl=1"
+title_image: "https://i.pinimg.com/originals/51/41/2d/51412d5c4c9e4bb481282795c49fa160.png"
 google_analytics: "UA-20365477-4"
 disqus_account: scottbrink
 github_repository: https://github.com/jacobtomlinson/carte-noire
