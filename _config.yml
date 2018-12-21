@@ -1,30 +1,29 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
+title: "Scott Brink"
+description: "Scott's Personal Blog."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_description: "My name is Scott Brink, also know as sandw1ch.   I am studying Computing Security at Rochester Institute of Technology.  I am the Tech Lead of <a href=\"http://ritsec.club\">RITSEC</a> and I was the captain of RIT's Collegiate Penetration Testing Competition this year.   My interests range all over the security field, however recently I have been enjoying penetration testing and experimenting with DevOps tools.   When I am not yelling at my computer, I enjoy swimming and rock climbing."
+title_image: "https://i2.wp.com/dummiesoftheyear.com/wp-content/uploads/2015/12/c5890b20f124e45a95a65a9af7b78a5e.jpg?zoom=2.625&resize=392%2C540&ssl=1"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
+disqus_account: scottbrink
 github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
+twitter_username: thesandw1ch
+github_username:  sebrink
 instagram_username: 
 reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: https://www.linkedin.com/in/scott-brink-981b7b104/
+google_plus_link: 
+stackoverflow_link:
 xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Theme made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
