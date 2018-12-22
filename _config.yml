@@ -2,12 +2,12 @@
 title: "Scott Brink"
 description: "Scott's Personal Blog."
 baseurl: ""
-url: "http://sandw1.ch"
+url: "https://sandw1.ch"
 title_description: "My name is Scott Brink, also know as sandw1ch.   I am studying Computing Security at Rochester Institute of Technology.  I am the Tech Lead of <a href=\"http://ritsec.club\">RITSEC</a> and I was the captain of RIT's Collegiate Penetration Testing Competition this year.   My interests range all over the security field, however recently I have been enjoying penetration testing and experimenting with DevOps tools.   When I am not yelling at my computer, I enjoy swimming and rock climbing."
 title_image: "https://i.pinimg.com/originals/51/41/2d/51412d5c4c9e4bb481282795c49fa160.png"
 google_analytics: "UA-20365477-4"
-disqus_account: scottbrink
-github_repository: https://github.com/jacobtomlinson/carte-noire
+disqus_account: sandw1ch
+github_repository: https://github.com/sebrink/blog
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
