@@ -2,7 +2,4 @@
 
 At the moment this is a WIP!
 
-## TODO:
-1. Fix Disqus
-2. Make blogposts
-3. Test RSS feed to make sure it is working
+Update: 1 year later, it is still just as much of a WIP as you would expect.
